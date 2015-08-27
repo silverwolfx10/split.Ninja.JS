@@ -19,9 +19,6 @@
     "tests"
   ],
   "dependencies": {
-    "Ninja.JS": "*",
-    "curry.Ninja.JS": "*",
-    "interceptor.Ninja.JS": "*",
-    "reduce.Ninja.JS": "*"
+    "Ninja.JS": "*"
   }
 }
