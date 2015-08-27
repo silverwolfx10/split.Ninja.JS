@@ -1,0 +1,27 @@
+{
+  "name": "split.Ninja.JS",
+  "version": "0.0.0",
+  "authors": [
+    "Cleber de Moraes Goncalves <cleber.programmer@hotmail.com>"
+  ],
+  "description": "Divide um literal em um array de literais, separando a string em substrings",
+  "main": "split.js",
+  "keywords": [
+    "javascript"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/Bibizzy/split.Ninja.JS",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "Ninja.JS": "*",
+    "curry.Ninja.JS": "*",
+    "interceptor.Ninja.JS": "*",
+    "reduce.Ninja.JS": "*"
+  }
+}
