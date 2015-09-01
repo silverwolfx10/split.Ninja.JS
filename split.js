@@ -27,7 +27,7 @@ this.Ninja.module('$split', ['$curry'], function ($curry) {
    *        $split('hello cleber.programmer', ' ');
    * 
    */
-  function split(a, b, c) {
+  function split(a, b) {
     return a.split(b);
   }
 
